@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quick and simple by dev02.
+Creating a new branch is quick and simple by dev02_gitskills2.
